@@ -1,0 +1,103 @@
+html,body,img,div,input,textarea,p,h1,h2,h3,h4,h5,h6,ul,li,a,main {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;   
+}
+
+h1{
+    color: blueviolet;
+}
+
+.container{
+    margin-top:0;
+}
+
+.principal{
+    background-color: #8e77c6;
+    font-family: 'Della Respira', serif;
+}
+
+div .imagem  img{
+    width: 800px ;
+    height: 450px;
+    object-fit: cover;
+    object-position: 190px 10px;
+    margin-left: 30rem;
+}
+
+
+.bloco1{
+    background-color: rgb(224, 142, 224);
+    box-sizing: border-box;
+    width: 250px;
+   
+    border: 2px solid rgb(78, 5, 85);
+    padding: 20px;
+    align-items: center;
+    margin-top: 0.99rem;
+    margin-left: 3rem;  
+}
+
+
+.bloco2{
+    background-color: rgb(224, 142, 224);
+    box-sizing: border-box;
+    width: 250px;
+   
+    border: 2px solid rgb(78, 5, 85);
+    padding: 20px;
+    margin-top: 12px;
+    margin-left: 10rem;
+}
+
+.bloco3{
+    background-color: rgb(224, 142, 224);
+    box-sizing: border-box;
+    width: 250px;
+    border: 2px solid rgb(78, 5, 85);
+    padding: 20px;
+    align-items: center;
+    margin-top: 0.5rem;
+    margin-left: 20rem;
+}
+
+.bloco4{
+    background-color: rgb(224, 142, 224);
+    box-sizing: border-box;
+    width: 250px;
+    border: 2px solid rgb(78, 5, 85);
+    padding: 20px;
+    align-items: center;
+    margin-top: 0.5rem;
+    margin-left: 30rem;
+}
+
+.bloco5{
+    background-color: rgb(224, 142, 224);
+    box-sizing: border-box;
+    width: 290px;
+    border: 2px solid rgb(78, 5, 85);
+    padding: 20px;
+    align-items: center;
+    margin-top: 0.5rem;
+    margin-left: 43rem;
+}
+
+.bloco6{
+    background-color: rgb(224, 142, 224);
+    box-sizing: border-box;
+    width: 150px;
+    border: 2px solid rgb(78, 5, 85);
+    padding: 20px;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 60rem;
+
+}
+
+div .bloco6 p{
+    text-align: center;
+}
+
