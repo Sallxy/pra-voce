@@ -103,6 +103,11 @@ div .bloco6 p{
 
 @media only screen and (min-width: 768px){
    
+    .principal{
+    width: 720px;
+    heigth: 930px;
+    }
+    
     .container{
         width: 100%;
         max-width: 1125px;
