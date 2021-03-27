@@ -102,50 +102,17 @@ div .bloco6 p{
 }
 
 @media only screen and (min-width: 768px){
-    .linha{
-        display: flex;
-        flex-wrap: wrap;
-        align-items: flex-start;
-        justify-content: space-between;
-    }
-    footer nav .redes-sociais {
-        display: flex;
-        justify-content: center;
-    }
-    header{
-        padding: 30px 0 0;
-    }
-    header .coluna img{
-        max-width: 250px;
-        border-radius: 100%;
-    }
+   
     .container{
         width: 100%;
         max-width: 1125px;
         margin: 0 auto;
         padding: 30px;
     }
-    header .coluna-direita{
-        text-align: left;
-    }
-    main .coluna section{
-        border: 1px solid #316092;
-        padding: 20px;
-    }
-    main .coluna{
-        padding: 0;
-    }
-    footer nav .redes-sociais li{
-        margin: 0  14px;
-        text-align: center;
-        display: initial;
-    }
+   
     
-}
 
 @media only screen and (min-width: 991px){
 
-    header .coluna-direita{
-        flex-basis: 70%;
     }
 }
