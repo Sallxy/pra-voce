@@ -115,9 +115,13 @@ div .bloco6 p{
         padding: 30px;
     }
    
-    
+}   
 
 @media only screen and (min-width: 991px){
 
+    .principal{
+    width: 720px;
+    heigth: 930px;
     }
-}
+    
+    }
